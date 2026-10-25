@@ -1,3 +1,7 @@
+> [!NOTE]
+> **This skill now lives in the main collection: [milad-ahmd/agent-skills](https://github.com/milad-ahmd/agent-skills/tree/main/skills/meeting-notes-to-tickets)**. Please ⭐ star it there; that's where updates land first.
+> Docs: **https://milad-ahmd.github.io/agent-skills/skills/meeting-notes-to-tickets/** · Claude Code: `/plugin install all-skills --marketplace milad-ahmd/agent-skills`
+
 <div align="center">
 
 # 📋 meeting-notes-to-tickets
